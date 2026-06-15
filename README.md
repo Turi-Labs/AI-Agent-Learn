@@ -36,6 +36,10 @@ Free papers and deep-dives to go further:
 |-------|------|------|
 | The Operator's Edge | Turi Labs guide | [PDF](resources/The%20Operator's%20Edge%20%E2%80%94%20Turi%20Labs.pdf) |
 | Macro Evals for Agentic Systems | Research paper | [PDF](resources/macro-evals-agentic-systems.pdf) |
+| Agent Loops Guide | Turi Labs guide | [PDF](resources/agent-loops-guide.pdf) |
+| Claude Code Commands Tier List | Turi Labs guide | [PDF](resources/claude-code-commands-tier-list.pdf) |
+| Second Brain Guide | Turi Labs guide | [PDF](resources/second-brain-guide.pdf) |
+| Writing Playbook | Turi Labs guide | [PDF](resources/writing_playbook.pdf) |
 
 ---
 
