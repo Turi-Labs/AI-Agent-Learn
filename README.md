@@ -40,6 +40,7 @@ Free papers and deep-dives to go further:
 | Claude Code Commands Tier List | Turi Labs guide | [PDF](resources/claude-code-commands-tier-list.pdf) |
 | Second Brain Guide | Turi Labs guide | [PDF](resources/second-brain-guide.pdf) |
 | Writing Playbook | Turi Labs guide | [PDF](resources/writing_playbook.pdf) |
+| The AI Iceberg | Turi Labs guide | [PDF](resources/ai-iceberg-guide.pdf) |
 
 ---
 
