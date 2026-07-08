@@ -10,5 +10,6 @@ Free papers and guides to support the curriculum.
 | [Claude Code Commands Tier List](claude-code-commands-tier-list.pdf) | Ranked breakdown of Claude Code slash commands and when to use them | All modules |
 | [Second Brain Guide](second-brain-guide.pdf) | How to build a personal knowledge system for AI agent development | All modules |
 | [Writing Playbook](writing_playbook.pdf) | Content and writing patterns used in the Turi Labs series | All modules |
+| [Client Audit Skill](audit-skill/SKILL.md) | Claude Code skill that turns raw client conversations into an ROI-ranked audit and execution roadmap | Module 03 |
 
 More resources will be added as the curriculum grows. To suggest a resource, open a [Discussion](https://github.com/Turi-Labs/AI-Agent-Learn/discussions).
