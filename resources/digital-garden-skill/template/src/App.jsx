@@ -1,0 +1,34 @@
+import React from "react"
+import ArticlePage from "./components/ArticlePage"
+import Header from "./components/Header";
+import Home from "./components/Home";
+import Articles from "./components/Articles";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import Timeline from "./components/Timeline";
+import PDFEmbed from "./components/PDFEmbed";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+
+function App() {
+  return (
+    <div className="min-h-screen w-full relative app-canvas">
+      <div className="relative z-10">
+        <BrowserRouter>
+          <Header />
+          <Routes>
+            <Route exact path="/" element={<Home />} />
+            <Route path="/articles" element={<Articles />} />
+            <Route path="/projects" element={<Projects />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/resume" element={<PDFEmbed />} />
+            <Route path="/timeline" element={<Timeline />} />
+            <Route path="/:slug" element={<ArticlePage />} />
+            <Route path="/:folder/:slug" element={<ArticlePage />} />
+          </Routes>
+        </BrowserRouter>
+      </div>
+    </div>
+  );
+}
+
+export default App

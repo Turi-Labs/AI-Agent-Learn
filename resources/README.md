@@ -11,5 +11,6 @@ Free papers and guides to support the curriculum.
 | [Second Brain Guide](second-brain-guide.pdf) | How to build a personal knowledge system for AI agent development | All modules |
 | [Writing Playbook](writing_playbook.pdf) | Content and writing patterns used in the Turi Labs series | All modules |
 | [Client Audit Skill](audit-skill/SKILL.md) | Claude Code skill that turns raw client conversations into an ROI-ranked audit and execution roadmap | Module 03 |
+| [Digital Garden Skill](digital-garden-skill/SKILL.md) | Claude Code skill that turns voice-dump transcripts into dated, cross-linked personal essays and bootstraps a lightweight React+Vite digital garden site to hold them | All modules |
 
 More resources will be added as the curriculum grows. To suggest a resource, open a [Discussion](https://github.com/Turi-Labs/AI-Agent-Learn/discussions).
